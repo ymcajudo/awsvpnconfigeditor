@@ -1,0 +1,3 @@
+AWS에서 받은 파일명을 다음과 같이 변경해서 저장해야 함
+
+vpn-0d74f03606718cb07.txt   ====> awsvpnconfig-src.txt
